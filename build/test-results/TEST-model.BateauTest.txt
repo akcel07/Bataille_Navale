@@ -1,0 +1,7 @@
+Testsuite: model.BateauTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,155 sec
+
+Testcase: testDetruireBateau took 0,006 sec
+Testcase: testToucheCellules took 0,002 sec
+Testcase: testVisibiliteBateau took 0 sec
+Testcase: testEtatBateau took 0 sec
